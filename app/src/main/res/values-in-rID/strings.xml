@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="detail_movie">Detail Film</string>
+
+    <string name="upcoming">Akan Tayang</string>
+    <string name="now_playing">Sedang diputar</string>
+
+    <string name="title_activity_settings">Pengaturan</string>
+
+    <string name="setting_category_language">Bahasa</string>
+    <string name="title_change_language">Ganti Bahasa</string>
+    <string name="subtitle_change_language">Ganti Bahasa Aplikasi</string>
+    <string name="key_setting_locale">key_setting_locale</string>
+
+</resources>
